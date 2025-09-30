@@ -1,9 +1,31 @@
 # OOP
 [Codes - Resources(YT tutorial/ Reading material) - Topic Details - Important Notes] during my OOP Learning Journey
 
-#INHERITANCE
-| Topic Name | Learning Resource Name with Links | Progress |
-|------------|-----------------------------------|----------|
-|Inheritance & Its Different Types with Examples in C++|[YT Code With Harry #36](https://www.youtube.com/watch?v=RO1ZYW9NAzg&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=36&t=961s)|Just Started|
-| |[COH Website](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblJxSFNfYzcwVHU5VDhYUUZPLUw5WGU2b1I2Z3xBQ3Jtc0trYUpadHpCYmFfMlRxUEQyWHpHdkZET3BBeDRRdXBVZmRQSlVCeG5yODhIQ2RaTzBFdWVwbjFWRGduTFJzQVRNOE0zeTRpUDlhOVpyQlZzMG5vNHRMZDJIMmhNQ3EteWhPTXdQOXpQUGtvUjdCV05Ydw&q=https%3A%2F%2Farchive.codewithharry.com%2Fvideos%2Fcpp-tutorials-in-hindi-36&v=RO1ZYW9NAzg)| |
+
+
+|Type| Video / Concept Title | Learning Resource Name with Links | Progress | Additional Note |
+|-------------------|-----------------------|----------------------------------|----------|-----------------|
+|Course Website|OOP345| [Seneca Polytechnic](https://advoop.sdds.ca/)|N/A|N/A|
+|YT Tutorial|Inheritance & Its Different Types with Examples in C++|[YT Code With Harry(CWH) #36](https://www.youtube.com/watch?v=RO1ZYW9NAzg&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=36&t=961s)<br>[COH Website](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblJxSFNfYzcwVHU5VDhYUUZPLUw5WGU2b1I2Z3xBQ3Jtc0trYUpadHpCYmFfMlRxUEQyWHpHdkZET3BBeDRRdXBVZmRQSlVCeG5yODhIQ2RaTzBFdWVwbjFWRGduTFJzQVRNOE0zeTRpUDlhOVpyQlZzMG5vNHRMZDJIMmhNQ3EteWhPTXdQOXpQUGtvUjdCV05Ydw&q=https%3A%2F%2Farchive.codewithharry.com%2Fvideos%2Fcpp-tutorials-in-hindi-36&v=RO1ZYW9NAzg)|N/A|N/A|
+||Inheritance Syntax & Visibility Mode in C++|[YT Code With Harry #37](https://www.youtube.com/watch?v=Dmrc82dL7E8&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=37)<br>[CWH Website](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbll0MHpmcUl1dlVmdFk2bEJJUmV4ZUJ3R05nQXxBQ3Jtc0tseWt3VVkzMjFwSmk0OEYyeWJsU1hLbHZkdTFNYnNBa1JCZzhxc2lHWlBfcWw5Q1dHeWlrNnYzNXNWZGdiWGxVLVNwZWZQRVpVam11M3lCOWF6OEhsRUF5UVo1cW9ZOUkyV0ZIdzFnVFdnMEpWR0RjZw&q=https%3A%2F%2Farchive.codewithharry.com%2Fvideos%2Fcpp-tutorials-in-hindi-37&v=Dmrc82dL7E8)|N/A|N/A|
+||Single Inheritance Deep Dive: Examples + Code|[YT CWH(Code with Harry) #38](https://www.youtube.com/watch?v=S1BR0xDdsyM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=38)<br>[CWH Website](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDZiRjAteXpPSHZDX1JiXzhIcHlPTDEwQ1Qtd3xBQ3Jtc0tsTkQ5TWNBLTBVaTFhNzZ1ZGN2bFRZSDRCYzZMZDBQUU9nUmllRHdiUTMwTnVFOUR6RGVMOTJ4OV9TOWI0dzEtSXo0OTBpWVNGM0RBbnZwNTF6bTZtUHUxRDhZYkdUaDQ1WWg5Q2d3ZDdzLVBkUXhQTQ&q=https%3A%2F%2Farchive.codewithharry.com%2Fvideos%2Fcpp-tutorials-in-hindi-38&v=S1BR0xDdsyM)|N/A|N/A|
+|Access Modifier|Protected Access Modifier in C++ |[YT CWH #39](https://www.youtube.com/watch?v=uHkIhwUspdI&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=39)<br>[CWH Website](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazNnSDhONVNYY2pzM3RzRFlvT0dOVTFlUUlSd3xBQ3Jtc0tsQ0hpRkYyU0g4QjZTMEhpcFF4bnhRQ3hRaW52MXdycUw4Ri1wLXJabzR2VGt2akJUeFI4UHVodWJPWHJEam9HcGp4aUFNRTZiSGlxMzJ1S2FjcEZjbGs2SXZ6bFNPdlViZUQtQS0tX0dEQ2JJLXhuWQ&q=https%3A%2F%2Farchive.codewithharry.com%2Fvideos%2Fcpp-tutorials-in-hindi-39&v=uHkIhwUspdI)|N/A|N/A|
+|INHERITANCE|Multilevel Inheritance Deep Dive with Code Example in C++ |[YT CWH #40](https://www.youtube.com/watch?v=BLb6-ZgxqHg&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=40)<br>[CWH Website](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUd6c3IxVkIzMFZlODB3djA2NUVVODNaVmVXUXxBQ3Jtc0ttamNLVUFoWjNLOUV0cDRCaFczSGoxMXRsZVVGWW5Pd19CS1FtMzhJWG9FU1M4bTR3WDdBT3hDSmxRdHVETzk3d0VXNi1BNTZKdXVvYzh1TnVENVplUXNRNS0xOFdIZVZCVHdocjJDdEV2bjBiZm1IWQ&q=https%3A%2F%2Farchive.codewithharry.com%2Fvideos%2Fcpp-tutorials-in-hindi-40&v=BLb6-ZgxqHg)|N/A|N/A|
+||Multiple Inheritance Deep Dive with Code Example in C++|[YT CWH #41](https://www.youtube.com/watch?v=h3INeRqf2vU&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=41)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-41/)|N/A|N/A|
+||Exercise on C++ Inheritance|[YT CWH #42](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=42)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-42/)|N/A|N/A|
+||Ambiguity Resolution in Inheritance in C++|[YT CWH #43](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=43)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-43/)|N/A|N/A|
+||Virtual Base Class in C++|[YT CWH #44](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=44)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-44/)|N/A|N/A|
+||Code Example Demonstrating Virtual Base Class in C++|[YT CWH #45](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=45)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-45/)|N/A|N/A|
+||Constructors in Derived Class in C++|[YT CWH #46](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=46)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-46/)|N/A|N/A|
+||Solution to Exercise on Cpp Inheritance|[YT CWH #47](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=47)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-47/)|N/A|N/A|
+||Code Example: Constructors in Derived Class in Cpp|[YT CWH #48](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=48)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-48/)|N/A|N/A|
+||Initialization list in Constructors in Cpp |[YT CWH #49](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=49)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-49/)|N/A|N/A|
+||Revisiting Pointers: new and delete Keywords in CPP|[YT CWH #50](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=50)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-50/)|N/A|N/A|
+||Pointers to Objects and Arrow Operator in CPP|[YT CWH #51](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=51)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-51/)|N/A|N/A|
+||Array of Objects Using Pointers in C++|[YT CWH #52](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=52)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-52/)|N/A|N/A|
+||this Pointer in C++|[YT CWH #53](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=53)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-53/)|N/A|N/A|
+|YT Tutorial|Chrono Library||N/A|N/A|
+
+
+
 
