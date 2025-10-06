@@ -1,0 +1,10 @@
+//Types of Storage Class
+1. Auto(Local variable)
+2. Static
+3. Extern
+4. Register
+5. Mutable
+
+resources:
+https://www.youtube.com/watch?v=F-OWwwu2EUI&list=PLNCqhNH6OTExhKIfKTkGbjltqW1zeWWvF&index=34
+https://www.youtube.com/watch?v=WkvBtAcLpDg&list=PLNCqhNH6OTExhKIfKTkGbjltqW1zeWWvF&index=35
