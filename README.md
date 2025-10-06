@@ -25,7 +25,7 @@
 ||Array of Objects Using Pointers in C++|[YT CWH #52](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=52)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-52/)|N/A|N/A|
 ||this Pointer in C++|[YT CWH #53](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=53)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-53/)|N/A|N/A|
 |YT Tutorial|Chrono Library||N/A|N/A|
-|YT Tutorial|Command Line Arguments|[Tutorial#1](https://youtu.be/C2Vhp-ozA0k?si=D_QSJSxJnsUtEqIM)|N/A|argc, argv, env|
+|YT Tutorial|Command Line Arguments|[Tutorial#1](https://youtu.be/C2Vhp-ozA0k?si=D_QSJSxJnsUtEqIM)<br>[Tutorial#2](https://youtu.be/decAHMKIo_A?si=vlT3Oy27QP-bthSo)|N/A|argc, argv, env|
 |YT Tutorial|Storage Class|[Tutorial#1](https://youtu.be/F-OWwwu2EUI?si=qGECq0f5INrpuNyS)<br>[Tutorial#2](https://youtu.be/WkvBtAcLpDg?si=2cr5k_3FaJlG3OT-)|N/A|extern,auto,static....|
 |YT Tutorial|Assertions|[Tutorial](https://youtu.be/x2fZuu3a90o?si=ghLhg0aZ8isdiiYw)| | |
 |YT Tutorial|Contexpr|[Tutorial](https://youtu.be/Ia0MizHPLUA?si=4cEphc9HiR1rduWU)| | |
