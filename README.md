@@ -27,7 +27,7 @@
 |YT Tutorial|Chrono Library||N/A|N/A|
 |YT Tutorial|Command Line Arguments|[Tutorial#1](https://youtu.be/C2Vhp-ozA0k?si=D_QSJSxJnsUtEqIM)|N/A|argc, argv, env|
 |YT Tutorial|Storage Class|[Tutorial#1](https://youtu.be/F-OWwwu2EUI?si=qGECq0f5INrpuNyS)<br>[Tutorial#2](https://youtu.be/WkvBtAcLpDg?si=2cr5k_3FaJlG3OT-)|N/A|extern,auto,static....|
-
-
+|YT Tutorial|Assertions|[Tutorial](https://youtu.be/x2fZuu3a90o?si=ghLhg0aZ8isdiiYw)| | |
+|YT Tutorial|Contexpr|[Tutorial](https://youtu.be/Ia0MizHPLUA?si=4cEphc9HiR1rduWU)| | |
 
 
