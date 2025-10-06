@@ -26,6 +26,7 @@
 ||this Pointer in C++|[YT CWH #53](https://www.youtube.com/watch?v=SW36UpSdmsM&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=53)<br>[CWH Website](https://archive.codewithharry.com/videos/cpp-tutorials-in-hindi-53/)|N/A|N/A|
 |YT Tutorial|Chrono Library||N/A|N/A|
 |YT Tutorial|Command Line Arguments|[Tutorial#1](https://youtu.be/C2Vhp-ozA0k?si=D_QSJSxJnsUtEqIM)|N/A|argc, argv, env|
+|YT Tutorial|Storage Class|[Tutorial#1](https://youtu.be/F-OWwwu2EUI?si=qGECq0f5INrpuNyS)<br>[Tutorial#2](https://youtu.be/WkvBtAcLpDg?si=2cr5k_3FaJlG3OT-)|N/A|extern,auto,static....|
 
 
 
